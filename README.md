@@ -1,4 +1,4 @@
-## Greetings...  I'm Juan José Rodriguez 👻  
+## Saludos...  Soy Juan José Rodriguez 👻  
   
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-rodriguez-valcke/" target="_blank">
@@ -8,7 +8,7 @@
 
 
 
-### Glad to see you here!  
+### ¿Quién soy?... Entre muchos matices...
 Soy una persona disciplinada y creativa. Pero sobretodo soy alguien que encuentra una enorme satisfacción en el arte de aprender. Mi vida la he puesto al servicio de una búsqueda insaciable de conocimiento y del profundo entendimiento de las motivaciones y las actividades humanas tanto en el presente como a lo largo de la historia. Creo firmemente en que las utopías solo se construyen desde la edificación del propio ser y desde la capacidad para estrechar lazos de respeto, empatía y cooperación con los demás.
 Actualmente me posiciono en el sector del desarrollo web, labor a la que me he encomendado con suma dedicación y ética profesional. Tengo conocimientos básicos en lenguajes de programación y herramientas de desarrollo tanto de front-end como de back-end, y si bien soy conciente del esfuerzo que acarrea posicionarse en ambos espectros de dicho oficio sé que mi nivel de compromiso y mis capacidades de aprendizaje son más que de fiar a la hora de encarar ambas ramas de especialización.
 He dedicado gran parte de mi vida, además, al estudio del arte, la historia, la filosofía y las lenguas.  
@@ -17,7 +17,7 @@ He dedicado gran parte de mi vida, además, al estudio del arte, la historia, la
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas:  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
