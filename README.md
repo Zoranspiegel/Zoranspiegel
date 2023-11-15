@@ -1,4 +1,4 @@
-## Saludos...  Mi nombre es Juan José Rodriguez 👻  
+## Saludos...  Mi nombre es Juan José Rodriguez 
   
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-rodriguez-valcke/" target="_blank">
