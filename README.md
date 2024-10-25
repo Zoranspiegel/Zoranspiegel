@@ -9,9 +9,7 @@
 
 
 ### ¿Quién soy?... Entre muchos matices...
-Soy una persona disciplinada y creativa. Pero sobretodo soy alguien que encuentra una enorme satisfacción en el arte de aprender. Mi vida la he puesto al servicio de una búsqueda insaciable de conocimiento y del profundo entendimiento de las motivaciones y las actividades humanas tanto en el presente como a lo largo de la historia. Creo firmemente en que las utopías solo se construyen desde la edificación del propio ser y desde la capacidad para estrechar lazos de respeto, empatía y cooperación con los demás.
-Actualmente me posiciono en el sector del desarrollo web, labor a la que me he encomendado con suma dedicación y ética profesional. Tengo conocimientos básicos en lenguajes de programación y herramientas de desarrollo tanto de front-end como de back-end, y si bien soy conciente del esfuerzo que acarrea posicionarse en ambos espectros de dicho oficio sé que mi nivel de compromiso y mis capacidades de aprendizaje son más que de fiar a la hora de encarar ambas ramas de especialización.
-He dedicado gran parte de mi vida, además, al estudio del arte, la historia, la filosofía y las lenguas.  
+Soy una persona disciplinada y creativa. Pero sobretodo soy alguien que encuentra una enorme satisfacción en el arte de aprender y en compartir mis conocimientos. Tengo conocimientos básicos en lenguajes de programación y herramientas de desarrollo web, profesión a la que decidí dedicarme por el inmenso valor humano que encuentro en la internet al dar acceso a las personas a la comunicación, a la información y al conocimiento. He dedicado además gran parte de mi vida al arte, disciplina que con mucho entusiasmo pretendo siempre integrar al desarrollo de mis proyectos.
   
 
 <br/>  
