@@ -9,7 +9,7 @@
 
 
 ### ¿Quién soy?... Entre muchos matices...
-Soy una persona disciplinada y creativa. Pero sobretodo soy alguien que encuentra una enorme satisfacción en el arte de aprender y en compartir mis conocimientos. Tengo conocimientos básicos en lenguajes de programación y herramientas de desarrollo web, profesión a la que decidí dedicarme por el inmenso valor humano que encuentro en la internet al dar acceso a las personas a la comunicación, a la información y al conocimiento. He dedicado además gran parte de mi vida al arte, disciplina que con mucho entusiasmo pretendo siempre integrar al desarrollo de mis proyectos.
+Soy una persona disciplinada y creativa. Pero sobretodo soy alguien que encuentra una enorme satisfacción en el arte de aprender y en compartir mis conocimientos. Tengo conocimientos básicos en lenguajes de programación y herramientas de desarrollo web, profesión a la que decidí dedicarme por el inmenso valor humano que encuentro en la internet al dar acceso a las personas a la comunicación, a la información y al conocimiento. He dedicado además gran parte de mi vida al arte, disciplina que con mucho entusiasmo pretendo siempre integrar al desarrollo de todos mis proyectos.
   
 
 <br/>  
